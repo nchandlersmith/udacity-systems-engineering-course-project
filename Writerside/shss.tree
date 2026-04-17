@@ -4,7 +4,10 @@
 
 <instance-profile id="shss"
                  name="Smart Home Security System"
-                 start-page="SystemRequirements.md">
+                 start-page="Introduction.md">
 
-    <toc-element topic="SystemRequirements.md"/>
+    <toc-element topic="Overview.md"/>
+    <toc-element topic="Introduction.md"/>
+    <toc-element topic="FunctionalRequirements.md"/>
+    <toc-element topic="Non-FunctionalRequirements.md"/>
 </instance-profile>
