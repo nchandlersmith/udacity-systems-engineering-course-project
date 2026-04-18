@@ -8,4 +8,4 @@
 
 ## Central Control Unit
 
-### User Authentication
+## User Authentication

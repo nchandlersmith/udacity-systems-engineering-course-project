@@ -10,4 +10,8 @@
     <toc-element topic="Overview.md"/>
     <toc-element topic="FunctionalRequirements.md"/>
     <toc-element topic="Non-FunctionalRequirements.md"/>
+    <toc-element topic="SystemOperations.md"/>
+    <toc-element topic="System-Modes-and-States.md"/>
+    <toc-element topic="Verification.md"/>
+    <toc-element topic="Assumptions-and-Dependencies.md"/>
 </instance-profile>
