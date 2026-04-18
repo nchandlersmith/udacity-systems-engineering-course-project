@@ -7,6 +7,3 @@
 ## User Characteristics
 
 
-
-### Maintainability & Reliability
-

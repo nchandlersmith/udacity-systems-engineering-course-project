@@ -6,8 +6,8 @@
                  name="Smart Home Security System"
                  start-page="Introduction.md">
 
-    <toc-element topic="Overview.md"/>
     <toc-element topic="Introduction.md"/>
+    <toc-element topic="Overview.md"/>
     <toc-element topic="FunctionalRequirements.md"/>
     <toc-element topic="Non-FunctionalRequirements.md"/>
 </instance-profile>
