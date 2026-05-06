@@ -16,7 +16,6 @@ In Scope:
 - Video surveillance
 - Motion detection
 - Intrusion detection
-- Integration with supported smart home devices (e.g., smart locks, fire alarms)
 - User alerts and notifications
 - Remote monitoring and control via mobile app
 
