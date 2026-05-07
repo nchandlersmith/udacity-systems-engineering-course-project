@@ -41,4 +41,14 @@ SHSS manages connected devices through configuration, status monitoring, diagnos
 
 ## User Characteristics
 
+### Residents
 
+Residents are the primary occupants of the home and may have access to the SHSS mobile application for receiving alerts and notifications, viewing live and recorded video feeds, and performing limited remote system control functions. Residents may also configure personal preference settings.
+
+### Homeowners / Admin
+
+Homeowners or designated administrators have full access to SHSS management and monitoring capabilities through the mobile application. They are responsible for system configuration, user management, device management, alert configuration, and overall system administration.
+
+### Installers / Technicians
+
+Installers and technicians are responsible for the installation, setup, diagnostics, and maintenance of SHSS devices. They may use specialized tools and interfaces for device provisioning, configuration, and troubleshooting during installation and maintenance activities. Access provided to installers and technicians is limited to installation and maintenance functions and does not extend to regular system operation or user management activities.
