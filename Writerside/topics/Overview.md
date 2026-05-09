@@ -11,6 +11,7 @@ Cloud services provide remote connectivity, notification delivery, synchronizati
 Figure 2.1 illustrates the system context and major interfaces between users, cloud services, and local system components.
 
 ![context diagram](../images/Context.drawio.png)
+
 _Figure 2.1: System Context Diagram_
 
 ## System Functions
