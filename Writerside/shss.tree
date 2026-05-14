@@ -4,14 +4,14 @@
 
 <instance-profile id="shss"
                  name="Smart Home Security System"
-                 start-page="Introduction.md">
+                 start-page="1-Introduction.md">
 
-    <toc-element topic="Introduction.md"/>
-    <toc-element topic="Overview.md"/>
-    <toc-element topic="Functional-Requirements.md"/>
-    <toc-element topic="Non-Functional-Requirements.md"/>
-    <toc-element topic="System-Operations.md"/>
-    <toc-element topic="System-Modes-and-States.md"/>
-    <toc-element topic="Verification.md"/>
-    <toc-element topic="Assumptions-and-Dependencies.md"/>
+    <toc-element topic="1-Introduction.md"/>
+    <toc-element topic="2-Overview.md"/>
+    <toc-element topic="3-Functional-Requirements.md"/>
+    <toc-element topic="4-Non-Functional-Requirements.md"/>
+    <toc-element topic="5-System-Operations.md"/>
+    <toc-element topic="6-System-Modes-and-States.md"/>
+    <toc-element topic="7-Verification.md"/>
+    <toc-element topic="8-Assumptions-and-Dependencies.md"/>
 </instance-profile>
